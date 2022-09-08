@@ -1,4 +1,5 @@
 # base64-image-encoder
+<hr />
 Base64 image encoder written in C.
 
 ## Assumptions
