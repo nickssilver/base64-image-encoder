@@ -18,7 +18,7 @@ Download and extract the libcurl library in the same location where you will clo
 ## Installing the application locally
 Clone the repository:
 
-`$ git clone https://github.com/dfcybhzb/base64-image-encoder.git`
+`$ git clone https://github.com/nickssilver/base64-image-encoder.git`
 
 In the root directory of the repository, set the `LD_LIBRARY_PATH` environment variable to the current directory:
 
