@@ -1,10 +1,12 @@
-# base64-image-encoder
+# 
+<h1 align ="center">base64-image-encoder:shell:</h1><br>
 <p align="center">
-<img src="https://cdn.shopify.com/s/files/1/0204/4104/products/20180517-20180517-P1260614_600x.jpg?v=1528506358">
+<img src="https://i2.wp.com/www.fatosmorina.com/wp-content/uploads/2017/07/Base64.png">
 </p>
 <hr />
 Base64 image encoder written in C.
-## Repo Description
+# Repo Description
+
 Base64 is an encoding algorithm that converts any characters, binary data, and even images or sound files into a readable string, which can be saved or transported over the network without data loss. The characters generated from Base64 encoding consist of Latin letters, digits, plus, and slash. Base64 is most commonly used as a 'MIME' (Multipurpose Internet Mail Extensions) transfer encoding for email.
 
 Base64 images are primarily used to embed image data within other formats like HTML, CSS, or JSON. By including image data within an HTML document, the browser doesn't need to make an additional web request to fetch the file, since the image is already embedded in the HTML document. A Base64 representation of an image is larger than a separate image and the string gets very long for large images. You should primarily use Base64 for small images and always test both embedded and external images to see what works best.
