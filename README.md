@@ -4,6 +4,7 @@
 <img src="https://i2.wp.com/www.fatosmorina.com/wp-content/uploads/2017/07/Base64.png">
 </p>
 <hr />
+
 Base64 image encoder written in C.
 
 ## Repo Description
